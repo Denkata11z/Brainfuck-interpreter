@@ -2,8 +2,6 @@
 
 Assembly interpreter for the programming language Brainfuck
 
-In specific, they take care of the fiddly bit with reading a file.
-
 There are a few files:
 
  - main.s:
